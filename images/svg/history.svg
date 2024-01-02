@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ICON/24/历史记录</title>
+    <g id="Anime" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="顶导浮层_历史" transform="translate(-2707.000000, -3197.000000)">
+            <g id="编组-33" transform="translate(1027.000000, 3177.000000)">
+                <g id="ICON/24/历史记录" transform="translate(1680.000000, 20.000000)">
+                    <rect id="矩形" fill="#1A1A1A" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                    <g id="占位" opacity="0" stroke="#979797">
+                        <path d="M20,4 L20,20 L4,20 L4,4 L20,4 Z" id="Rectangle-3-Copy-2" stroke-width="8" fill="#D8D8D8" opacity="0.3"></path>
+                        <rect id="Rectangle-Copy-2" opacity="0.3" x="2.69918367" y="2.66" width="18.6016327" height="18.68"></rect>
+                        <rect id="Rectangle-Copy-2" opacity="0.3" x="3.93836735" y="1.46" width="16.1232653" height="21.08"></rect>
+                        <rect id="Rectangle-Copy-2" opacity="0.3" x="1.46" y="3.98" width="21.08" height="16.04"></rect>
+                        <circle id="Oval-2" opacity="0.3" cx="12" cy="12" r="10.54"></circle>
+                    </g>
+                    <g id="编组-4" transform="translate(1.200000, 1.200000)" stroke-width="1.5">
+                        <circle id="椭圆形" stroke="#333333" cx="10.8" cy="10.8" r="10.05"></circle>
+                        <polyline id="路径-2" stroke="#F26183" stroke-linecap="round" stroke-linejoin="round" points="9.81818182 6.65454545 9.81818182 12.5454545 13.7454545 12.5454545"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

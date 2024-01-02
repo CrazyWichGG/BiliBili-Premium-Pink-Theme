@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 22 22" width="22px" height="22px" xmlns="http://www.w3.org/2000/svg">
+  <g id="Anime" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="matrix(0.9999999999999999, 0, 0, 0.9999999999999999, -2.220446049250313e-16, -2.220446049250313e-16)">
+    <g id="ICON/22/滑动模块箭头">
+      <circle id="椭圆形备份" transform="translate(11.000000, 11.000000) scale(-1, 1) rotate(-90.000000) translate(-11.000000, -11.000000) " cx="11" cy="11" r="11"/>
+      <polyline id="路径备份" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="9.648 14.333 9.648 7.667 16.315 7.667" style="transform-box: fill-box; transform-origin: 50% 50%; stroke: rgb(69, 69, 69);" transform="matrix(0.707107, -0.707107, 0.707107, 0.707107, 0, 0)"/>
+    </g>
+  </g>
+</svg>

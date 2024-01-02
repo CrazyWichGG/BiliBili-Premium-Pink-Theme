@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 24 24" width="24px" height="24px" xmlns="http://www.w3.org/2000/svg">
+  <g id="Anime" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="matrix(0.9999999999999999, 0, 0, 0.9999999999999999, 0, -4.440892098500626e-16)">
+    <g id="Anime_PC_交互说明" transform="translate(-11484.000000, -5354.000000)">
+      <g id="编组-28" transform="translate(10091.000000, 5168.000000)">
+        <g transform="translate(0.000000, -797.000000)" id="编组-6备份">
+          <g transform="translate(312.000000, 0.000000)">
+            <g id="编组-5" transform="translate(0.000000, 961.000000)">
+              <g id="ICON/24/箭头_category" transform="translate(1081.000000, 22.000000)">
+                <rect id="矩形" fill="#333333" opacity="0" x="0" y="0" width="24" height="24"/>
+                <g id="占位" opacity="0">
+                  <path d="M23,1 L23,23 L1,23 L1,1 L23,1 Z" id="Rectangle-3-Copy-2" stroke-opacity="0.3" stroke="#E64600" stroke-width="2" fill-opacity="0.1" fill="#E64600"/>
+                  <path d="M20,4 L20,20 L4,20 L4,4 L20,4 Z" id="Rectangle-3-Copy-2" stroke="#979797" stroke-width="8" fill="#D8D8D8" opacity="0.3"/>
+                  <rect id="Rectangle-Copy-2" stroke="#979797" opacity="0.3" x="2.69918367" y="2.66" width="18.6016327" height="18.68"/>
+                  <rect id="Rectangle-Copy-2" stroke="#979797" opacity="0.3" x="3.93836735" y="1.46" width="16.1232653" height="21.08"/>
+                  <rect id="Rectangle-Copy-2" stroke="#979797" opacity="0.3" x="1.46" y="3.98" width="21.08" height="16.04"/>
+                  <circle id="Oval-2" stroke="#979797" opacity="0.3" cx="12" cy="12" r="10.54"/>
+                </g>
+                <polyline id="路径" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="9.35331483 10 13.3101368 10.0431781 13.3533148 14" transform="translate(11.353315, 12.000000) rotate(-315.000000) translate(-11.353315, -12.000000) " style="stroke: rgb(242, 97, 131);"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
